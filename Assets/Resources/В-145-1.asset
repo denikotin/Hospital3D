@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-145-1"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0421\u0418\u0421\u0422\u0415\u041C\u0410 \u041C\u041E\u0414\u0423\u041B\u042C\u041D\u0410\u042F
+    \u0414\u041B\u042F \u041D\u0415\u0419\u0420\u041E\u0414\u0418\u0410\u0413\u041D\u041E\u0421\u0422\u0418\u041A\u0418
+    \u0421 \u041A\u041B\u0418\u041D\u0418\u0427\u0415\u0421\u041A\u0418\u041C\u0418
+    \u041C\u041E\u0414\u0423\u041B\u042F\u041C\u0418 \u042D\u042D\u0413 \u0418 \u042D\u041C\u0413/\u0412\u041F"
+  itemModel: "NicoletOne vEEG, Ni-colet Biomedi-cal, \u0421\u0428\u0410"
+  itemSize: "530\u0445760\u04451190"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0412-145-1"
+  itemPrefab: {fileID: 8075141065674031220, guid: 447309dd4e00f6f45bba5d367c3c6105, type: 3}
+  itemIcon: {fileID: 0}

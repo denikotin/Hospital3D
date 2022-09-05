@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-63"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0428\u0415\u0419\u0412\u0415\u0420 \u0423\u041D\u0418\u0412\u0415\u0420\u0421\u0410\u041B\u042C\u041D\u042B\u0419
+    \u0412 \u041A\u041E\u041C\u041F\u041B\u0415\u041A\u0422\u0410\u0426\u0418\u0418"
+  itemModel: "Karl Storz GmbH & Co, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F"
+  itemSize: "400\u0445500\u0445150"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 373138
+  itemCode: "\u0415-63"
+  itemPrefab: {fileID: 7646618980639450094, guid: 9681d0d625330c247ad17ecab28bcd68, type: 3}
+  itemIcon: {fileID: 21300000, guid: 1732d8239bf288140b992a4ce0557580, type: 3}

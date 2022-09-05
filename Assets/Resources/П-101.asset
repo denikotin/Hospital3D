@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041F-101"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u0414\u041E\u0421\u041A\u0410 \u0413\u041B\u0410\u0414\u0418\u041B\u042C\u041D\u0410\u042F"
+  itemModel: IKEA
+  itemSize: "1200\u0445400\u0445680- 800"
+  itemCount: 23
+  itemBalance: 0
+  itemPrice: 1799
+  itemCode: "\u041F-101"
+  itemPrefab: {fileID: 5015178929860440569, guid: 9fba5ff62148b2d4bbecc41305791606, type: 3}
+  itemIcon: {fileID: 21300000, guid: dc008cac7330026408d24f7eaef627a4, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042E-46"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041F\u0420\u0418\u041D\u0422\u0415\u0420 \u041B\u0410\u0417\u0415\u0420\u041D\u042B\u0419
+    \u0426\u0412\u0415\u0422\u041D\u041E\u0419"
+  itemModel: "Kyocera FS-C5350DN, \u041A\u041D\u0420"
+  itemSize: "482\u0445451\u0445325"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 11100
+  itemCode: "\u042E-46"
+  itemPrefab: {fileID: 5830485259008724657, guid: 58c90bb0da7154e41b5a497142f6218c, type: 3}
+  itemIcon: {fileID: 21300000, guid: 2c4969a5d9965c447b9db7cf6127c851, type: 3}

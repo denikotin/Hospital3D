@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0424-138"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u041F\u041F\u0410\u0420\u0410\u0422 \u0414\u041B\u042F \u041A\u041E\u041C\u0411\u0418\u041D\u0418\u0420\u041E\u0412\u0410\u041D\u041D\u041E\u0419
+    \u042D\u041B\u0415\u041A\u0422\u0420\u041E\u0422\u0415\u0420\u0410\u041F\u0418\u0418,
+    \u0423\u041B\u042C\u0422\u0420\u0410\u0417\u0412\u0423\u041A\u041E\u0412\u041E\u0419
+    \u0418 \u041B\u0410\u0417\u0415\u0420\u041D\u041E\u0419 \u0422\u0415\u0420\u0410\u041F\u0418\u0418"
+  itemModel: "COMBI 400, GYMNAUNIPHY N.V., \u0411\u0435\u043B\u044C\u0433\u0438\u044F"
+  itemSize: "300\u0445300\u0445200"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0424-138"
+  itemPrefab: {fileID: 3595977312683857600, guid: b5aafd473d490d945a78b2c2ce468c8e, type: 3}
+  itemIcon: {fileID: 0}

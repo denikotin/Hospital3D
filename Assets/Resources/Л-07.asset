@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041B-07"
+  m_EditorClassIdentifier: 
+  itemType: Closets
+  itemName: "\u0422\u0423\u041C\u0411\u0410 \u041F\u041E\u0414\u0421\u0422\u041E\u041B\u042C\u041D\u0410\u042F
+    \u041C\u041E\u0411\u0418\u041B\u042C\u041D\u0410\u042F \u0421 \u0412\u042B\u0414\u0412\u0418\u0416\u041D\u042B\u041C\u0418
+    \u042F\u0429\u0418\u041A\u0410\u041C\u0418"
+  itemModel: "\u0411\u0422-\u0422\u042F\u043F4-40-50/66, \u0411\u0422-\u041C\u0435\u0431\u0435\u043B\u044C,
+    \u0420\u043E\u0441-\u0441\u0438\u044F"
+  itemSize: "600\u0445500\u0445595"
+  itemCount: 4
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041B-07"
+  itemPrefab: {fileID: 2759779432125404881, guid: ee7d89fce4ad1df4b82f01e3238c014a, type: 3}
+  itemIcon: {fileID: 0}

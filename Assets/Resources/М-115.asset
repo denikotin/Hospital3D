@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041C-115"
+  m_EditorClassIdentifier: 
+  itemType: Tables
+  itemName: "\u0422\u0415\u041B\u0415\u0416\u041A\u0410 \u0414\u041B\u042F \u041C\u0415\u0414\u0418\u041A\u0410\u041C\u0415\u041D\u0422\u041E\u0412"
+  itemModel: "\u041C-\u0421\u0421-80 (3 \u043F\u043E\u043B\u043A\u0438, 1 \u044F\u0449\u0438\u043A)
+    (\u0421\u0422\u041C), \u041C\u0415\u0414\u0415\u041B\u0418\u042F, \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: '-'
+  itemCount: 21
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041C-115"
+  itemPrefab: {fileID: 1443845737776040760, guid: 8502e41e17e9fa64b958c53f67a7a933, type: 3}
+  itemIcon: {fileID: 0}

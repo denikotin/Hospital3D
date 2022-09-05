@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: 50
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u041F\u041E\u0414\u0421\u0422\u0410\u0412\u041A\u0410 \u0414\u041B\u042F
+    \u0417\u0410\u041C\u0410\u0427\u0418\u0412\u0410\u041D\u0418\u042F \u0413\u0418\u041F\u0421\u041E\u0412\u042B\u0425
+    \u0411\u0418\u041D\u0422\u041E\u0412"
+  itemModel: 18-FP425, Vernipoll
+  itemSize: 620x850
+  itemCount: 3
+  itemBalance: 0
+  itemPrice: 37628
+  itemCode: 50
+  itemPrefab: {fileID: 5547858042261584761, guid: b9a534ce8034779438231353496fb2de, type: 3}
+  itemIcon: {fileID: 21300000, guid: dc997508358a8b74d845f22e609f50a4, type: 3}

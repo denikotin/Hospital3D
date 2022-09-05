@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041E-108"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041C\u0418\u041A\u0420\u041E\u0421\u041A\u041E\u041F \u041E\u041F\u0415\u0420\u0410\u0426\u0418\u041E\u041D\u041D\u042B\u0419"
+  itemModel: "Opmi Pentero, Carl Zeiss, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F"
+  itemSize: "736\u0445736\u04451870"
+  itemCount: 3
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041E-108"
+  itemPrefab: {fileID: 8673409529768783877, guid: 11c825eb9b1bec845ae9b80fc4aafcc1, type: 3}
+  itemIcon: {fileID: 21300000, guid: 1711bb276f32e634e85e8acc2ad6205b, type: 3}

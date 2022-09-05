@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: 309
+  m_EditorClassIdentifier: 
+  itemType: Beds
+  itemName: "\u041A\u0420\u041E\u0412\u0410\u0422\u042C \u041C\u0415\u0414\u0418\u0426\u0418\u041D\u0421\u041A\u0410\u042F
+    \u0424\u0423\u041D\u041A\u0426\u0418\u041E\u041D\u0410\u041B\u042C\u041D\u0410\u042F
+    \u0414\u0415\u0422\u0421\u041A\u0410\u042F"
+  itemModel: Vernipoll
+  itemSize: "1830\u0445810\u04451200"
+  itemCount: 60
+  itemBalance: 0
+  itemPrice: 239000
+  itemCode: 309
+  itemPrefab: {fileID: 8240767418304828431, guid: a6a1df13b2f7ddc4b8198a760e7f6155, type: 3}
+  itemIcon: {fileID: 21300000, guid: 402705a92dca97b4f80d45f57b2f8708, type: 3}

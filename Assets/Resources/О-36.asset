@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041E-36"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u0410\u041F\u041F\u0410\u0420\u0410\u0422 \u0418\u0421\u041A\u0423\u0421\u0421\u0422\u0412\u0415\u041D\u041D\u041E\u0413\u041E
+    \u0414\u042B\u0425\u0410\u041D\u0418\u042F \u0420\u0423\u0427\u041D\u041E\u0419"
+  itemModel: "Apexmed, Apexmed International, \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u044B"
+  itemSize: "50\u044550\u0445200"
+  itemCount: 12
+  itemBalance: 0
+  itemPrice: 7500
+  itemCode: "\u041E-36"
+  itemPrefab: {fileID: 7021922302176396278, guid: 33660241737a30c44817049d45d12a2f, type: 3}
+  itemIcon: {fileID: 21300000, guid: ffe61c01dff841542a49bebf496a5f91, type: 3}

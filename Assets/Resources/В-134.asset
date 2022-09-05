@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-134"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0421\u041A\u0410\u041D\u0415\u0420 \u0423\u041B\u042C\u0422\u0420\u0410\u0417\u0412\u0423\u041A\u041E\u0412\u041E\u0419
+    \u0421 \u0426\u0412\u0415\u0422\u041D\u042B\u041C \u0414\u041E\u041F\u041F\u041B\u0415\u0420\u041E\u041C,
+    \u041A\u041E\u041C\u041F\u041B\u0415\u041A\u0422\u041E\u041C \u0414\u0410\u0422\u0427\u0418\u041A\u041E\u0412
+    \u0418 \u0412\u0418\u0414\u0415\u041E\u0422\u0415\u0420\u041C\u041E\u041F\u0420\u0418\u041D\u0422\u0415\u0420\u041E\u041C"
+  itemModel: Vivid E9 4D MD, GE Healthcare
+  itemSize: "540\u0445930\u04451350"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 3999000
+  itemCode: "\u0412-134"
+  itemPrefab: {fileID: 6564908366172661966, guid: 46806640662ec4240b862373f30cbc4e, type: 3}
+  itemIcon: {fileID: 21300000, guid: fb3d78efbfdfc2d4eb5cd1d966df79bf, type: 3}

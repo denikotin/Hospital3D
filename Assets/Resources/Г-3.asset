@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0413-3"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0412\u0415\u0421\u042B \u041C\u0415\u0414\u0418\u0426\u0418\u041D\u0421\u041A\u0418\u0415
+    \u042D\u041B\u0415\u041A\u0422\u0420\u041E\u041D\u041D\u042B\u0415 \u0414\u041B\u042F
+    \u0412\u0417\u0412\u0415\u0428\u0418\u0412\u0410\u041D\u0418\u042F \u0414\u0415\u0422\u0415\u0419"
+  itemModel: Seca 727, Seca
+  itemSize: "510\u0445320\u0445145"
+  itemCount: 34
+  itemBalance: 0
+  itemPrice: 93349
+  itemCode: "\u0413-3"
+  itemPrefab: {fileID: 264959615630518609, guid: 9c85be42b22d4e7448d8f4d099094bc6, type: 3}
+  itemIcon: {fileID: 21300000, guid: 5fa62cf51bc1bf84db9257635c25fd2b, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0421\u041E"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0421\u0418\u0421\u0422\u0415\u041C\u0410 \u0421\u041E\u0413\u0420\u0415\u0412\u0410\u041D\u0418\u042F
+    \u041F\u0410\u0426\u0418\u0415\u041D\u0422\u0410"
+  itemModel: "\u0420\u0430\u043C\u043E\u043D\u0430\u043A-03, \u0422\u0430\u0445\u0430\u0442,
+    \u0411\u0435\u043B\u0430- \u0440\u0443\u0441\u044C"
+  itemSize: '-'
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0421\u041E"
+  itemPrefab: {fileID: 3467794045213679278, guid: 5d31fa0a88f4e1944bb08d2614f6f570, type: 3}
+  itemIcon: {fileID: 0}

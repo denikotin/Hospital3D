@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041A-73"
+  m_EditorClassIdentifier: 
+  itemType: Closets
+  itemName: "\u0428\u041A\u0410\u0424 \u041D\u0410\u0421\u0422\u0415\u041D\u041D\u042B\u0419
+    \u0414\u041B\u042F \u041F\u041E\u0421\u0423\u0414\u042B"
+  itemModel: "Iterma \u041F\u0417-1203, \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "1200\u0445400\u0445600"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041A-73"
+  itemPrefab: {fileID: 1884739352252513055, guid: 514c8674df395f742a197123dc6bb203, type: 3}
+  itemIcon: {fileID: 21300000, guid: bb03924e9e9d3164db206c48a067ea95, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041C-02"
+  m_EditorClassIdentifier: 
+  itemType: Beds
+  itemCode: "\u041C-02"
+  itemName: "\u041A\u0420\u041E\u0412\u0410\u0422\u042C \u041C\u0415\u0414\u0418\u0426\u0418\u041D\u0421\u041A\u0410\u042F
+    \u0424\u0423\u041D\u041A\u0426\u0418\u041E\u041D\u0410\u041B\u042C\u041D\u0410\u042F
+    \u0427\u0415\u0422\u042B\u0420\u0415\u0425\u0421\u0415\u041A\u0426\u0418\u041E\u041D\u041D\u0410\u042F
+    \u0414\u041B\u042F \u0418\u041D\u0422\u0415\u041D\u0421\u0418\u0412\u041D\u041E\u0419
+    \u0422\u0415\u0420\u0410\u041F\u0418\u0418"
+  itemModel: SIGMA 3LN970H, Industrie Guido Malvestio S.P.A.,
+  itemCount: 18
+  itemSize: '-'
+  itemPrefab: {fileID: 1439099868625075011, guid: afdc258c511950744be6c4d8b0ff90dd, type: 3}
+  itemIcon: {fileID: 21300000, guid: ed1476cce64920b46a96497f92874898, type: 3}

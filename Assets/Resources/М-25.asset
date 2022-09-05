@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041C-25"
+  m_EditorClassIdentifier: 
+  itemType: Tables
+  itemName: "\u0421\u0422\u041E\u041B \u0416\u0423\u0420\u041D\u0410\u041B\u042C\u041D\u042B\u0419
+    \u041A\u0420\u0423\u0413\u041B\u042B\u0419"
+  itemModel: "\u041C-\u0421\u0416-70/60, \u0411\u0422-\u041C\u0435\u0431\u0435\u043B\u044C,
+    \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "D=800\u0445 520"
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 6100
+  itemCode: "\u041C-25"
+  itemPrefab: {fileID: 4352583015203887097, guid: 276b3b5d4881ee143817fbcdef1c503b, type: 3}
+  itemIcon: {fileID: 21300000, guid: 08a97ce79fa7aed4997a100dfea1425a, type: 3}

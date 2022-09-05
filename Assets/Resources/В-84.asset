@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-84"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u041D\u0410\u0411\u041E\u0420 \u0414\u041B\u042F \u0414\u0418\u0410\u0413\u041D\u041E\u0421\u0422\u0418\u041A\u0418
+    \u0414\u0418\u0410\u0411\u0415\u0422\u0418\u0427\u0415\u0421\u041A\u041E\u0419
+    \u041D\u0415\u0419\u0420\u041E\u041F\u0410\u0422\u0418\u0418"
+  itemModel: Rudolf Riester
+  itemSize: '-'
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0412-84"
+  itemPrefab: {fileID: 7885924775169262974, guid: caeacec20682eae4cb1376e2c93a61af, type: 3}
+  itemIcon: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041D-219"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0412\u0418\u0414\u0415\u041E\u041A\u0410\u041C\u0415\u0420\u0410 \u041D\u0410
+    \u041A\u0420\u041E\u041D\u0428\u0422\u0415\u0419\u041D\u0415"
+  itemModel: Sony
+  itemSize: '-'
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 17024
+  itemCode: "\u041D-219"
+  itemPrefab: {fileID: 2999182492735245813, guid: 73e7bb60f51be6e42b7e766e23677064, type: 3}
+  itemIcon: {fileID: 21300000, guid: d90cc88e1fcce79498f265f0a42eb5b2, type: 3}

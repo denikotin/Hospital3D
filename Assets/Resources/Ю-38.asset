@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042E-38"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u042D\u041A\u0420\u0410\u041D \u041F\u0415\u0420\u0415\u041D\u041E\u0421\u041D\u042B\u0419"
+  itemModel: "Premier Cor-vus F 305\u0445172/9 PW-PS/S"
+  itemSize: "2600\u04451900"
+  itemCount: 7
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u042E-38"
+  itemPrefab: {fileID: 1170229003242319068, guid: 22d4f6eeb98da18428553e22dc111573, type: 3}
+  itemIcon: {fileID: 0}

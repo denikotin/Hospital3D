@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-85"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0418\u041D\u0413\u0410\u041B\u042F\u0426\u0418\u041E\u041D\u041D\u0410\u042F
+    \u0423\u0421\u0422\u0410\u041D\u041E\u0412\u041A\u0410 \u041D\u0410 4 \u041C\u0415\u0421\u0422\u0410"
+  itemModel: "\u0418\u043D\u0433\u0430\u043B\u044F\u0446\u0438\u043E\u043D-\u043D\u0430\u044F
+    \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430 \u043D\u0430 4 \u043C\u0435\u0441\u0442\u0430
+    \u041D\u0418\u041A\u041E"
+  itemSize: 800x800x1540
+  itemCount: 4
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0415-85"
+  itemPrefab: {fileID: 8941507970574022826, guid: 02e46183993a9cd4da6d18dbc8953d20, type: 3}
+  itemIcon: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: Palata2_3dFloor
+  m_EditorClassIdentifier: 
+  itemType: 
+  itemName: "\u041F\u0430\u043B\u0430\u0442\u044B \u043E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F
+    \u0422\u0440\u0430\u0432\u043C\u0430\u0442\u043E\u043B\u043E\u0433\u0438\u0438"
+  itemModel: 
+  itemSize: 
+  itemCount: 0
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: 15
+  itemPrefab: {fileID: 0}
+  itemIcon: {fileID: 21300000, guid: 0517a7e515ef156408d71a912bcd93d1, type: 3}

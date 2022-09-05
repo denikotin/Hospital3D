@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-3"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u0423\u0414\u0418\u041E\u041C\u0415\u0422\u0420 \u041A\u041B\u0418\u041D\u0418\u0427\u0415\u0421\u041A\u0418\u0419"
+  itemModel: "TITAN, INTERACOUSTICS, \u0414\u0430\u043D\u0438\u044F"
+  itemSize: "360\u0445460\u0445150"
+  itemCount: 3
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0415-3"
+  itemPrefab: {fileID: 8795569993359307737, guid: 9a7e43cd6d6b8034ca8aeba81ea2fddc, type: 3}
+  itemIcon: {fileID: 0}

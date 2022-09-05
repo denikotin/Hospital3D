@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0425-203"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0425\u041E\u041B\u041E\u0414\u0418\u041B\u042C\u041D\u0418\u041A \u0411\u042B\u0422\u041E\u0412\u041E\u0419
+    \u042D\u041B\u0415\u041A\u0422\u0420\u0418\u0427\u0415\u0421\u041A\u0418\u0419(+4\xB0C)
+    \u0421 \u041C\u041E\u0420\u041E\u0417\u0418\u041B\u042C\u041D\u041E\u0419 \u041A\u0410\u041C\u0415\u0420\u041E\u0419(-18\xB0C)"
+  itemModel: Stinol STT 144
+  itemSize: "650\u0445590\u04451500"
+  itemCount: 5
+  itemBalance: 0
+  itemPrice: 24790
+  itemCode: "\u0425-203"
+  itemPrefab: {fileID: 1570880253619812802, guid: c0c038ba230b3e24181e2ff842df2c07, type: 3}
+  itemIcon: {fileID: 21300000, guid: c6e5066ed8104464a86d11a0ba045e39, type: 3}

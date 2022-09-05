@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0418-23"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u041A\u0410\u0411\u0418\u041D\u0410 \u0410\u0423\u0414\u0418\u041E\u041C\u0415\u0422\u0420\u0418\u0427\u0415\u0421\u041A\u0410\u042F"
+  itemModel: "A400, \u0418\u0441\u0442\u043E\u043A, \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "1220\u04451120\u04452310"
+  itemCount: 3
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0418-23"
+  itemPrefab: {fileID: 0}
+  itemIcon: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0420-103"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041D\u0415\u0413\u0410\u0422\u041E\u0421\u041A\u041E\u041F \u0412\u0421\u0422\u0420\u0410\u0415\u0412\u042B\u041C\u042B\u0419
+    \u0411\u041E\u041B\u042C\u0428\u041E\u0419"
+  itemModel: SJ 140 HF, EUROSKOP 2000, "Haerberle GmbH+Co.KG"
+  itemSize: "1671\u0445110\u0445753"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0420-103"
+  itemPrefab: {fileID: 274918247898413375, guid: 23b5d57a2fa3e7d44b1b700b30d7f51b, type: 3}
+  itemIcon: {fileID: 21300000, guid: 94ac80c167c1e5a4db767184084e99e0, type: 3}

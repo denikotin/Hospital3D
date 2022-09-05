@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042D-68"
+  m_EditorClassIdentifier: 
+  itemType: Bathroom
+  itemName: "\u0423\u041D\u0418\u0422\u0410\u0417 \u0424\u0410\u0420\u0424\u041E\u0420\u041E\u0412\u042B\u0419
+    \u0421\u041E \u0421\u041C\u042B\u0412\u041D\u042B\u041C \u0411\u0410\u0427\u041A\u041E\u041C"
+  itemModel: "\u042D-68"
+  itemSize: "450\u0445670\u0445730"
+  itemCount: 412
+  itemBalance: 0
+  itemPrice: 5880
+  itemCode: "\u042D-68"
+  itemPrefab: {fileID: 14636669185435152, guid: 79321e97c0d62c542bb7e62f2186a421, type: 3}
+  itemIcon: {fileID: 21300000, guid: 9c19be17a2e910346817491aec32451a, type: 3}

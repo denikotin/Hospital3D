@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042E-31"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0422\u0415\u041B\u0415\u0412\u0418\u0417\u041E\u0420 \u0421 USB- \u0412\u0425\u041E\u0414\u041E\u041C
+    \u0418 \u041D\u0410\u0421\u0422\u0415\u041D\u041D\u042B\u041C \u041A\u0420\u041E\u041D\u0428\u0422\u0415\u0419\u041D\u041E\u041C"
+  itemModel: "LED-\u0442\u0435\u043B\u0435\u0432\u0438\u0437\u043E\u0440 SUPRA"
+  itemSize: '-'
+  itemCount: 321
+  itemBalance: 0
+  itemPrice: 4406
+  itemCode: "\u042E-31"
+  itemPrefab: {fileID: 4960447654421969700, guid: db79dd01300b1404eb6209dd039c06da, type: 3}
+  itemIcon: {fileID: 21300000, guid: e0b833a31350a694588310b95a292aa2, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-31"
+  m_EditorClassIdentifier: 
+  itemType: Tables
+  itemName: "\u0421\u0418\u0421\u0422\u0415\u041C\u0410 \u0414\u041B\u042F \u0422\u0420\u0410\u041D\u0421\u041F\u041E\u0420\u0422\u0418\u0420\u041E\u0412\u041A\u0418
+    \u0418 \u041A\u0420\u0410\u0422\u041A\u041E\u0412\u0420\u0415\u041C\u0415\u041D\u041D\u041E\u0413\u041E
+    \u0425\u0420\u0410\u041D\u0415\u041D\u0418\u042F \u042D\u041D\u0414\u041E\u0421\u041A\u041E\u041F\u041E\u0412
+    \u0421 5 \u041B\u041E\u0422\u041A\u0410\u041C\u0418"
+  itemModel: "\u0422\u0435\u043B\u0435\u0436\u043A\u0430 \u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442\u0438-\u0440\u043E\u0432\u043E\u0447\u043D\u0430\u044F
+    \u0422361"
+  itemSize: "530\u0445570\u0445930"
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0412-31"
+  itemPrefab: {fileID: 4526592691116170657, guid: eae74f60793b02c409d643aa922a8f96, type: 3}
+  itemIcon: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: 136
+  m_EditorClassIdentifier: 
+  itemType: Chairs
+  itemName: "\u0414\u0418\u0412\u0410\u041D \u041C\u0415\u0414\u0418\u0426\u0418\u041D\u0421\u041A\u0418\u0419
+    \u0414\u0412\u0423\u0425\u041C\u0415\u0421\u0422\u041D\u042B\u0419"
+  itemModel: "\u041C\u0430\u0440\u0441\u0435\u043B\u044C 2"
+  itemSize: 1180x700x1050
+  itemCount: 57
+  itemBalance: 0
+  itemPrice: 27990
+  itemCode: 136
+  itemPrefab: {fileID: 3426875658240133381, guid: c01d9f7502e438049aa6bfdf1f83b9a3, type: 3}
+  itemIcon: {fileID: 21300000, guid: 4cf03d9acef35b142a104f1ee4dfeb3c, type: 3}

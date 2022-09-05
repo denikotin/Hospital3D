@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041C-42"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u041A\u0420\u0415\u0421\u041B\u041E-\u041A\u041E\u041B\u042F\u0421\u041A\u0410
+    \u0412\u041D\u0423\u0422\u0420\u0418\u0411\u041E\u041B\u042C\u041D\u0418\u0427\u041D\u0410\u042F"
+  itemModel: "LY-250, \u041C\u0415\u0414\u0415\u041B\u0418\u042F, \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "570\u0445750\u0445950"
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041C-42"
+  itemPrefab: {fileID: 2468762348659815794, guid: 6e4d72735ae751c4fa58001278165967, type: 3}
+  itemIcon: {fileID: 0}

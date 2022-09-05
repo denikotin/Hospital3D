@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-23"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u041F\u041F\u0410\u0420\u0410\u0422 \u0414\u041B\u042F \u0411\u042B\u0421\u0422\u0420\u041E\u0413\u041E
+    \u0420\u0410\u0417\u041C\u041E\u0420\u0410\u0416\u0418\u0412\u0410\u041D\u0418\u042F
+    \u0418 \u041F\u041E\u0414\u041E\u0413\u0420\u0415\u0412\u0410 \u041F\u041B\u0410\u0417\u041C\u042B,
+    \u041A\u0420\u041E\u0412\u0418 \u0418 \u041A\u0420\u041E\u0412\u0415\u0417\u0410\u041C\u0415\u0429\u0410\u042E\u0429\u0418\u0425
+    \u0420\u0410\u0421\u0422\u0412\u041E\u0420\u041E\u0412"
+  itemModel: "SAHARA-III basic model, TransMed, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F"
+  itemSize: 340x600x320
+  itemCount: 4
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0415-23"
+  itemPrefab: {fileID: 4866899514932491995, guid: cc6ba88cdcd480344b7db5f67b0bbd2f, type: 3}
+  itemIcon: {fileID: 21300000, guid: 79df30c63fee1fa40b0c931863feea75, type: 3}

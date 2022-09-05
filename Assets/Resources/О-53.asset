@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041E-53"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u041F\u041F\u0410\u0420\u0410\u0422 \u041D\u0410\u0420\u041A\u041E\u0417\u041D\u041E-
+    \u0414\u042B\u0425\u0410\u0422\u0415\u041B\u042C\u041D\u042B\u0419 \u041C\u041E\u0411\u0418\u041B\u042C\u041D\u042B\u0419
+    \u0421 \u0412\u0415\u041D\u0422\u0418\u041B\u042F\u0422\u041E\u0420\u041E\u041C
+    \u0418 \u041C\u041E\u041D\u0418\u0422\u041E\u0420\u041E\u041C"
+  itemModel: Fabius Plus, Drager Medical AG&Co
+  itemSize: '-'
+  itemCount: 10
+  itemBalance: 2
+  itemPrice: 2000000
+  itemCode: "\u041E-53"
+  itemPrefab: {fileID: 2913482133316141694, guid: fbd93769ebfc50d46aca47ec33df5218, type: 3}
+  itemIcon: {fileID: 21300000, guid: fb55a44350fee2f4face619df90f075d, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042E-4"
+  m_EditorClassIdentifier: 
+  itemType: Props
+  itemName: "\u0417\u0435\u0440\u043A\u0430\u043B\u043E \u043D\u0430\u0441\u0442\u0435\u043D\u043D\u043E\u0435"
+  itemModel: "\u0421\u0438\u0442\u0438-\u0413\u043B\u0430\u0441\u0441, \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "700\u044525\u0445550"
+  itemCount: 641
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u042E-4"
+  itemPrefab: {fileID: 6125454558901052995, guid: bfb5e046d8186f24ba264d51147731ef, type: 3}
+  itemIcon: {fileID: 21300000, guid: 3b00b41233b04bc49ba8f78cbf004384, type: 3}

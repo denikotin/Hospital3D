@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042E-23"
+  m_EditorClassIdentifier: 
+  itemType: Closets
+  itemName: "\u0428\u041A\u0410\u0424 \u041C\u0415\u0422\u0410\u041B\u041B\u0418\u0427\u0415\u0421\u041A\u0418\u0419
+    \u041E\u0411\u042B\u0427\u041D\u042B\u0419"
+  itemModel: "SL-125T, \"\u041F\u0440\u043E\u043C\u0435\u0442\""
+  itemSize: "480\u0445370\u04451000"
+  itemCount: 60
+  itemBalance: 0
+  itemPrice: 9700
+  itemCode: "\u042E-23"
+  itemPrefab: {fileID: 9054666367560062749, guid: 15a35c58b64a91a41857a668e9565ccd, type: 3}
+  itemIcon: {fileID: 21300000, guid: a2d4b0813f7c0664faa441685e6dc5a4, type: 3}

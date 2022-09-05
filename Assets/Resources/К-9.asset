@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041A-9"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041F\u0415\u0427\u042C \u041C\u0418\u041A\u0420\u041E\u0412\u041E\u041B\u041D\u041E\u0412\u0410\u042F
+    \u041F\u0420\u041E\u0424\u0415\u0421\u0421\u0418\u041E\u041D\u0410\u041B\u042C\u041D\u0410\u042F"
+  itemModel: "MWP 1052-25E, EUROTEC-RIGA, \u0418\u0442\u0430\u043B\u0438\u044F"
+  itemSize: "510\u0445430\u0445300"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 24800
+  itemCode: "\u041A-9"
+  itemPrefab: {fileID: 0}
+  itemIcon: {fileID: 21300000, guid: 3cae82136b283b54a9c82d9740a4bfd8, type: 3}

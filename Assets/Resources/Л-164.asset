@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041B-164"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0421\u0418\u0421\u0422\u0415\u041C\u0410 \u041E\u0427\u0418\u0421\u0422\u041A\u0418
+    \u0412\u041E\u0414\u042B (2-\u0433\u043E \u0422\u0418\u041F\u0410)"
+  itemModel: "Milli-Q IQ7000, Milli-pore, \u0424\u0440\u0430\u043D\u0446\u0438\u044F"
+  itemSize: "255\u0445215\u0445457"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041B-164"
+  itemPrefab: {fileID: 2210556022203491658, guid: 943f6a47889b62048bb2995f95707d15, type: 3}
+  itemIcon: {fileID: 0}

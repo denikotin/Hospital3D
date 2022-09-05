@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0414-22"
+  m_EditorClassIdentifier: 
+  itemType: Beds
+  itemName: "\u0418\u041D\u041A\u0423\u0411\u0410\u0422\u041E\u0420-\u0422\u0420\u0410\u041D\u0421\u0424\u041E\u0420\u041C\u0415\u0420
+    \u0418\u041D\u0422\u0415\u041D\u0421\u0418\u0412\u041D\u041E\u0419 \u0422\u0415\u0420\u0410\u041F\u0418\u0418
+    (\u0420\u0415\u0410\u041D\u0418\u041C\u0410\u0426\u0418\u041E\u041D\u041D\u0410\u042F
+    \u0421\u0418\u0421\u0422\u0415\u041C\u0410) \u0414\u041B\u042F \u041D\u041E\u0412\u041E\u0420\u041E\u0416\u0414\u0415\u041D\u041D\u042B\u0425
+    \u0421 \u041F\u0420\u0418\u041D\u0410\u0414\u041B\u0415\u0416\u041D\u041E\u0421\u0422\u042F\u041C\u0418"
+  itemModel: "Giraffe Om-nibed B 105 neo 820, GE Healthcare, \u0421\u0428\u0410"
+  itemSize: "1140\u0445660\u04451520"
+  itemCount: 3
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0414-22"
+  itemPrefab: {fileID: 315221344195413702, guid: 0da1a4f8e66ff23428075b044698f551, type: 3}
+  itemIcon: {fileID: 0}

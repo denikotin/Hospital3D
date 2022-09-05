@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-14"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u0422\u041E\u041D\u041E\u041C\u0415\u0422\u0420 \u041C\u0415\u041C\u0411\u0420\u0410\u041D\u041D\u042B\u0419
+    \u041E\u0411\u0429\u0415\u0413\u041E \u041F\u0420\u0418\u041C\u0415\u041D\u0415\u041D\u0418\u042F"
+  itemModel: CS Medica CS-107
+  itemSize: '-'
+  itemCount: 29
+  itemBalance: 0
+  itemPrice: 1419
+  itemCode: "\u0412-14"
+  itemPrefab: {fileID: 2216756823182089202, guid: f522c15188a72fe4d9b85b76a760ed77, type: 3}
+  itemIcon: {fileID: 21300000, guid: e323e0265405072459db568e2e743b33, type: 3}

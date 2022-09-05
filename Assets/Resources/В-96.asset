@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-96"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0420\u0415\u041A\u041E\u0420\u0414\u0415\u0420 \u042D\u041A\u0413"
+  itemModel: Medilog FD12 plus
+  itemSize: '-'
+  itemCount: 6
+  itemBalance: 0
+  itemPrice: 411657
+  itemCode: "\u0412-96"
+  itemPrefab: {fileID: 1067514182749378545, guid: c0f4eb9cc6f4e1b43af70b1ef0186834, type: 3}
+  itemIcon: {fileID: 0}

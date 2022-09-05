@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-55"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0421\u0418\u0421\u0422\u0415\u041C\u0410 \u0423\u0414\u0410\u041B\u0415\u041D\u0418\u042F
+    \u0414\u042B\u041C\u0410 \u0418\u0417 \u041E\u041F\u0415\u0420\u0410\u0426\u0418\u041E\u041D\u041D\u041E\u0413\u041E
+    \u041F\u041E\u041B\u042F"
+  itemModel: "Covidien, \u0421\u0428\u0410"
+  itemSize: "476\u0445356\u0445203"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 199500
+  itemCode: "\u0415-55"
+  itemPrefab: {fileID: 6335213862856511555, guid: a788a139ecf5d134688543b2e00ce32f, type: 3}
+  itemIcon: {fileID: 21300000, guid: 230056eaa141a6d4483d5ed6058d200a, type: 3}

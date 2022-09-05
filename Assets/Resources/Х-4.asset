@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0425-4"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0425\u041E\u041B\u041E\u0414\u0418\u041B\u042C\u041D\u0418\u041A \u0411\u042B\u0422\u041E\u0412\u041E\u0419"
+  itemModel: "POZIS-\u0421\u0432\u0438\u044F\u0433\u0430-410-1"
+  itemSize: "490\u0445600\u04451220"
+  itemCount: 17
+  itemBalance: 0
+  itemPrice: 26920
+  itemCode: "\u0425-4"
+  itemPrefab: {fileID: 7108198843066882213, guid: 473e835e5b63fbe4d85db2713843a80d, type: 3}
+  itemIcon: {fileID: 21300000, guid: 5b39b64a104776843a68a478b4c75a05, type: 3}

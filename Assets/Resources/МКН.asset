@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041C\u041A\u041D"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041A\u0410\u041C\u0415\u0420\u0410 \u041C\u041E\u0420\u041E\u0417\u0418\u041B\u042C\u041D\u0410\u042F
+    \u041D\u0418\u0417\u041A\u041E\u0422\u0415\u041C\u041F\u0415\u0420\u0410\u0422\u0423\u0420\u041D\u0410\u042F
+    \u0412\u0415\u0420\u0422\u0418\u041A\u0410\u041B\u042C\u041D\u0410\u042F"
+  itemModel: 7240V, Thermo
+  itemSize: "610\u0445733\u04451620"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 809824
+  itemCode: "\u041C\u041A\u041D"
+  itemPrefab: {fileID: 7973832486518898743, guid: 6b717aad80dc362458cc5091de289d21, type: 3}
+  itemIcon: {fileID: 21300000, guid: 38b85414080eac54abcbe3daabb6927c, type: 3}

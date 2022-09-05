@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042E-6"
+  m_EditorClassIdentifier: 
+  itemType: Bathroom
+  itemName: "\u041F\u041E\u041B\u041E\u0427\u041A\u0410 \u0414\u041B\u042F \u0422\u0423\u0410\u041B\u0415\u0422\u041D\u042B\u0425
+    \u041F\u0420\u0418\u041D\u0410\u0414\u041B\u0415\u0416\u041D\u041E\u0421\u0422\u0415\u0419"
+  itemModel: "\u0413\u0440\u0430\u043D\u0430\u0434\u0430 1-84, \u0410\u0440\u0442\u0438\u0441,
+    \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: 988x310x280
+  itemCount: 0
+  itemBalance: 0
+  itemPrice: 2680
+  itemCode: "\u042E-6"
+  itemPrefab: {fileID: 603637385189514284, guid: 01fab3fa7822a534eaad42e7302ff15f, type: 3}
+  itemIcon: {fileID: 21300000, guid: ab2cd6e21532dea4996097776ca0abcc, type: 3}

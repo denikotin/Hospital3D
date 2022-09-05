@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412\u0413-0"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0412\u0418\u0414\u0415\u041E\u0413\u0410\u0421\u0422\u0420\u041E\u0421\u041A\u041E\u041F
+    \u0423\u041B\u042C\u0422\u0420\u0410\u0422\u041E\u041D\u041A\u0418\u0419"
+  itemModel: EG29-i10
+  itemSize: '-'
+  itemCount: 7
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0412\u0413-0"
+  itemPrefab: {fileID: 4562156701875885744, guid: 4fa4378df29b0504a8a03f9bc7c14c1c, type: 3}
+  itemIcon: {fileID: 0}

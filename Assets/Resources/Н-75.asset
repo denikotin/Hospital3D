@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041D-75"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u041E\u0421\u0412\u0415\u0422\u0418\u0422\u0415\u041B\u042C \u041D\u0410\u041B\u041E\u0411\u041D\u042B\u0419
+    \u041F\u0420\u042F\u041C\u041E\u0413\u041E \u0424\u041E\u041A\u0423\u0421\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F"
+  itemModel: LED + Xenon Nova 175
+  itemSize: "90\u0445130\u0445100"
+  itemCount: 10
+  itemBalance: 0
+  itemPrice: 159360
+  itemCode: "\u041D-75"
+  itemPrefab: {fileID: 3537665349041873969, guid: 27ef7052a2eebe243bb5f5b1a41c93d2, type: 3}
+  itemIcon: {fileID: 21300000, guid: 6846d81ede4583d4cb2e90019e12fa93, type: 3}

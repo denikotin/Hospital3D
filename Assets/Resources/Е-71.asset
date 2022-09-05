@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-71"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041E\u0424\u0422\u0410\u041B\u042C\u041C\u041E\u0421\u041A\u041E\u041F
+    \u041D\u0410\u041B\u041E\u0411\u041D\u042B\u0419 \u0411\u0418\u041D\u041E\u041A\u0423\u041B\u042F\u0420\u041D\u042B\u0419
+    \u041D\u0415\u041F\u0420\u042F\u041C\u041E\u0419"
+  itemModel: OMEGA 500 XHL
+  itemSize: 2
+  itemCount: 0
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0415-71"
+  itemPrefab: {fileID: 7031813918558660509, guid: 15f02432aac5bbf4ca75bc2270e314ac, type: 3}
+  itemIcon: {fileID: 0}

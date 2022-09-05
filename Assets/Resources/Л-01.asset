@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041B-01"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u041D\u0410\u041B\u0418\u0417\u0410\u0422\u041E\u0420 \u0413\u0415\u041C\u0410\u0422\u041E\u041B\u041E\u0413\u0418\u0427\u0415\u0421\u041A\u0418\u0419
+    \u0410\u0412\u0422\u041E\u041C\u0410\u0422\u0418\u0427\u0415\u0421\u041A\u0418\u0419"
+  itemModel: "MEK-7300, Nihon Kohden, \u042F\u043F\u043E-\u043D\u0438\u044F"
+  itemSize: "320\u0445403\u0445413"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u041B-01"
+  itemPrefab: {fileID: 698629329307178262, guid: a170de83b0c22d940a8d6263e78333d6, type: 3}
+  itemIcon: {fileID: 0}

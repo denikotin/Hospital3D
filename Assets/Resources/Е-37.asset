@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0415-37"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0421\u0412\u0415\u0422\u0418\u041B\u042C\u041D\u0418\u041A \u0414\u0418\u0410\u0413\u041D\u041E\u0421\u0422\u0418\u0427\u0415\u0421\u041A\u0418\u0419
+    \u041F\u041E\u0422\u041E\u041B\u041E\u0427\u041D\u042B\u0419 \u041E\u0414\u041D\u041E\u041A\u0423\u041F\u041E\u041B\u042C\u041D\u042B\u0419"
+  itemModel: Lucea100, Maquet
+  itemSize: '-'
+  itemCount: 34
+  itemBalance: 4
+  itemPrice: 25512
+  itemCode: "\u0415-37"
+  itemPrefab: {fileID: 8359290909642924452, guid: 6612a5bf2db930c4bb7a29859a8ceade, type: 3}
+  itemIcon: {fileID: 21300000, guid: ac884fafdc8eec840a3f3eb392f185bb, type: 3}

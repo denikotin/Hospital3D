@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0421\u041E-1"
+  m_EditorClassIdentifier: 
+  itemType: Tables
+  itemName: "\u0421\u0422\u041E\u041B \u041E\u041F\u0415\u0420\u0410\u0426\u0418\u041E\u041D\u041D\u042B\u0419
+    \u041E\u0424\u0422\u0410\u041B\u042C\u041C\u041E\u041B\u041E\u0413\u0418\u0427\u0415\u0421\u041A\u0418\u0419
+    \u041C\u0415\u0425\u0410\u041D\u041E\u0413\u0418\u0414\u0420\u0410\u0412\u041B\u0418\u0427\u0415\u0421\u041A\u0418
+    \u0419"
+  itemModel: "\u041C\u0422500, \u0411\u0438\u043E\u043C\u0435\u0434"
+  itemSize: '-'
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 402445
+  itemCode: "\u0421\u041E-1"
+  itemPrefab: {fileID: 2238534369063841953, guid: a2022201c318a7140a8eb1b3c2a113c3, type: 3}
+  itemIcon: {fileID: 21300000, guid: ed4cb7e296d0b834094906d9ba2b01f3, type: 3}

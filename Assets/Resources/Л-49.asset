@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041B-49"
+  m_EditorClassIdentifier: 
+  itemType: Closets
+  itemName: "\u0428\u041A\u0410\u0424 \u041B\u0410\u0411\u041E\u0420\u0410\u0422\u041E\u0420\u041D\u042B\u0419
+    \u041D\u0410\u0421\u0422\u0415\u041D\u041D\u042B\u0419"
+  itemModel: "\u0421-1200.600-02-\u041A (\u0428\u0417\u041A-1200), \u0410\u0442\u0435\u0441\u0438,
+    \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "900\u0445360\u0445630"
+  itemCount: 11
+  itemBalance: 0
+  itemPrice: 50699
+  itemCode: "\u041B-49"
+  itemPrefab: {fileID: 5528956034537737561, guid: d3e0058927a469b42b07def5f30f99bd, type: 3}
+  itemIcon: {fileID: 21300000, guid: fe41cac8ad535bc45b3ae7f9411cbd15, type: 3}

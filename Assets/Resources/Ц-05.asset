@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0426-05"
+  m_EditorClassIdentifier: 
+  itemType: Tables
+  itemCode: "\u0426-05"
+  itemName: "\u0421\u0422\u0415\u041B\u041B\u0410\u0416 \u0421\u0422\u0410\u0426\u0418\u041E\u041D\u0410\u0420\u041D\u042B\u0419"
+  itemModel: 478 72 88-71, GETINGE
+  itemCount: 24
+  itemSize: "915\u0445455\u04451895"
+  itemPrefab: {fileID: 3651533008934918095, guid: 444b2bdcb137e0943810e1bc596fda33, type: 3}
+  itemIcon: {fileID: 21300000, guid: 7c2a192a5161e7542a8e0986773b1394, type: 3}

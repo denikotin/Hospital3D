@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1b565ab5a8d76914fb51825ca0b18a3e
+  - enabled: 1
+    path: Assets/Scenes/Menu/NewMenu.unity
+    guid: 9d95fb54c98b3884fa6ce7fc4edf617e
+  - enabled: 1
+    path: Assets/Scenes/1stFloor/Palata1_1stFloor/Palata1_1stFloor.unity
+    guid: 134dd91a1e9483d438e1ee6617ac044d
+  - enabled: 1
+    path: Assets/Scenes/1stFloor/Palata2_1stFloor/Palata2_1stFloor.unity
+    guid: 25a000965ecaa544cab245f1dcd253db
+  - enabled: 1
+    path: Assets/Scenes/1stFloor/Palata3_1stFloor/Palata3_1stFloor.unity
+    guid: bf190265d35b0834daf249e6dd4772ae
+  - enabled: 1
+    path: Assets/Scenes/1stFloor/Palata4_1stFloor/Palata4_1stFloor.unity
+    guid: aba010206a27def40bdaeb48f0158dd1
+  - enabled: 1
+    path: Assets/Scenes/1stFloor/Corridor_1stFloor/Corridor_1stFloor.unity
+    guid: 55fde8681f7b6ec4fb363954a9aedd78
+  - enabled: 1
+    path: Assets/Scenes/1stFloor/Hall_1stFloor/Hall_1stFloor.unity
+    guid: 0d43c91e602708c4c8d36de3d72640d8
+  - enabled: 1
+    path: Assets/Scenes/2ndFloor/Palata1_2ndFloor/Palata1_2ndFloor.unity
+    guid: 69d0a98a7bc32f14cab149aa5368d018
+  - enabled: 1
+    path: Assets/Scenes/2ndFloor/Palata2_2ndFloor/Palata2_2ndFloor.unity
+    guid: 5052da961f4cbbb4f8bfab141444f0bd
+  - enabled: 1
+    path: Assets/Scenes/2ndFloor/Palata3_2ndFloor/Palata3_2ndFloor.unity
+    guid: 82233cd71bec8d944abf159007d77ee8
+  - enabled: 1
+    path: Assets/Scenes/2ndFloor/Palata4_2ndFloor/Palata4_2ndFloor.unity
+    guid: 7c7719c7c64e66947a7ac824948a213c
+  - enabled: 1
+    path: Assets/Scenes/2ndFloor/Coridor_2ndFloor/coridor.unity
+    guid: 0a8d1d6615eb6584aa819b7a0c1cf74b
+  - enabled: 1
+    path: Assets/Scenes/2ndFloor/Hall_2ndFloor/Hall_2ndFloor.unity
+    guid: 9c0ee30fc3f16ec428021e6b82f24552
+  - enabled: 1
+    path: Assets/Scenes/3dFloor/Palata1_3dFloor/Palata1_3dFloor.unity
+    guid: d5c8dcbf6d77af74ca217609f47ac0d2
+  - enabled: 1
+    path: Assets/Scenes/3dFloor/Palata2_3dFloor/Palata2_3dFloor.unity
+    guid: bfa6dba4f807d0e4eba9bbc8dcc67e95
+  - enabled: 1
+    path: Assets/Scenes/3dFloor/Palata3_3dFloor/Palata3_3dFloor.unity
+    guid: 789a29845d87ff0489424cccfdbc781f
+  - enabled: 1
+    path: Assets/Scenes/OperationBlock/OperationBlock.unity
+    guid: 6ee5384d07d09304f9e48a923f797452
+  - enabled: 1
+    path: Assets/Scenes/3dFloor/Hall_3dFloor/Hall_3dFloor.unity
+    guid: 3e59d1f257bc41942beb3cca8581a264
+  - enabled: 1
+    path: Assets/Scenes/3dFloor/Coridor_3dFlorr/corridor_3dFloor.unity
+    guid: 03f3db39ba53487419a0fd0eb7266c0a
+  - enabled: 1
+    path: Assets/Scenes/4thFloor/Palata1_4thFloor/Palata1_4thFloor.unity
+    guid: 5431728b275593a42b3c96a6dd9e8ec0
+  - enabled: 1
+    path: Assets/Scenes/4thFloor/Palata2_4thFloor/Palata2_4thFloor.unity
+    guid: 75c5b94ee7240304f943e6c52120b703
+  - enabled: 1
+    path: Assets/Scenes/4thFloor/Palata3_4thFloor/Palata3_4thFloor.unity
+    guid: c4ecf615aa8faa044b71cd4a3b147bdc
+  - enabled: 1
+    path: Assets/Scenes/4thFloor/Corridor_4thFloor/Coridor_4thFloor.unity
+    guid: a2aa8a4cca186bf468413ea9c21261bf
+  - enabled: 1
+    path: Assets/Scenes/4thFloor/Hall_4thFloor/Hall_4thFloor.unity
+    guid: d2d3eb10c249abd48a14752d07d8b1ef
+  - enabled: 1
+    path: Assets/Scenes/5thFloor/Palata1_5thFloor/Palata1_5thFloor.unity
+    guid: fbaf4b61f3c07d24d8fb162f88892d97
+  - enabled: 1
+    path: Assets/Scenes/5thFloor/Palata2_5thFloor/Palata2_5thFloor.unity
+    guid: e5b61d1eda3b95d4c9d97483cb6160fc
+  - enabled: 1
+    path: Assets/Scenes/5thFloor/Palata3_5thFloor/Palata3_5thFloor.unity
+    guid: 9d35949cae208c647b726392dc880566
+  - enabled: 1
+    path: Assets/Scenes/5thFloor/Coridor_5thFloor/Coridor_5thFloor.unity
+    guid: 58a9ba4c609f9434fa0717673ab8c99f
+  - enabled: 0
+    path: Assets/Scenes/Test/Test.unity
+    guid: 13d5e284be7739144809ed4c65675eed
+  m_configObjects: {}

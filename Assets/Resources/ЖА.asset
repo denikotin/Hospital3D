@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0416\u0410"
+  m_EditorClassIdentifier: 
+  itemType: Proops
+  itemName: "\u0416\u0410\u041B\u042E\u0417\u0418 \u041E\u041A\u041E\u041D\u041D\u042B\u0415
+    \u0420\u0423\u041B\u041E\u041D\u041D\u042B\u0415 \u041C\u041E\u042E\u0429\u0418\u0415\u0421\u042F"
+  itemModel: "\u0423\u0442\u043E\u0447\u043D\u044F\u0435\u0442\u0441\u044F \u043E\u0440\u0438\u0435\u043D\u0442\u0430\u0446\u0438\u0435\u0439
+    \u0438 \u043A\u043E\u043B\u0438\u0447\u0435-\u0441\u0442\u0432\u043E\u043C \u043E\u043A\u043E\u043D,"
+  itemSize: "\u043F\u043E \u043F\u0440\u043E\u0435\u043A\u0442\u0443"
+  itemCount: 357
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0416\u0410"
+  itemPrefab: {fileID: 9003522734424721888, guid: c975a14f6e054b64f920202ffd89f402, type: 3}
+  itemIcon: {fileID: 21300000, guid: aa502e6607f02f64497a002d7921afcb, type: 3}

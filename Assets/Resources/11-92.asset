@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: 11-92
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041F\u0415\u0427\u042C \u041C\u0418\u041A\u0420\u041E\u0412\u041E\u041B\u041D\u041E\u0412\u0410\u042F"
+  itemModel: MC32K7055CK, Samsung
+  itemSize: '-'
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: 11-92
+  itemPrefab: {fileID: 1165205951411814752, guid: 70d8dd4941d31ed428aaa1392ee6449e, type: 3}
+  itemIcon: {fileID: 0}

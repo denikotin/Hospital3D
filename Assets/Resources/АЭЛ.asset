@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0410\u042D\u041B"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u041F\u041F\u0410\u0420\u0410\u0422 \u042D\u041B\u0415\u041A\u0422\u0420\u041E\u0425\u0418\u0420\u0423\u0420\u0413\u0418\u0427\u0415\u0421\u041A\u0418
+    \u0419 \u0421 \u0424\u0423\u041D\u041A\u0426\u0418\u0415\u0419 \u041B\u0418\u0413\u0418\u0420\u041E\u0412\u0410\u041D\u0418\u042F
+    \u0421\u041E\u0421\u0423\u0414\u041E\u0412"
+  itemModel: "Maxium ME 402, KLS Martin Group, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F"
+  itemSize: "390\u0445435\u0445182"
+  itemCount: 2
+  itemBalance: 0
+  itemPrice: 2250000
+  itemCode: "\u0410\u042D\u041B"
+  itemPrefab: {fileID: 4112164958133306944, guid: 6092c96acdb8c644e9703868d6e65ced, type: 3}
+  itemIcon: {fileID: 21300000, guid: 21f6f916a97eaec499b0c95ff8a94c5b, type: 3}

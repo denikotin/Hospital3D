@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u042D-6"
+  m_EditorClassIdentifier: 
+  itemType: Bathroom
+  itemName: "\u0423\u041D\u0418\u0422\u0410\u0417 \u0414\u041B\u042F \u0418\u041D\u0412\u0410\u041B\u0418\u0414\u041E\u0412
+    \u0421 \u041E\u041F\u0423\u0421\u041A\u0410\u042E\u0429\u0418\u041C\u0418\u0421\u042F
+    \u041F\u041E\u0414\u041B\u041E\u041A\u041E\u0422\u041D\u0418\u041A\u0410\u041C\u0418"
+  itemModel: "\u0423\u0447\u0438\u0442\u044B\u0432\u0430\u0435\u0442\u0441\u044F
+    \u0432 \u0440\u0430\u0437\u0434\u0435\u043B\u0435 \u0412\u041A"
+  itemSize: "600\u0445600\u04451300"
+  itemCount: 7
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u042D-6"
+  itemPrefab: {fileID: 4635008201336576189, guid: 7e0049ddb99261f4f97f92e593b22104, type: 3}
+  itemIcon: {fileID: 21300000, guid: 4f61e35b949bbad4dba2d7a966da2cff, type: 3}

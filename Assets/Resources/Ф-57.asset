@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0424-57"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u041A\u041E\u041C\u041F\u0420\u0415\u0421\u0421\u041E\u0420 \u0411\u0415\u0417\u041C\u0410\u0421\u041B\u042F\u041D\u042B\u0419
+    \u0412 \u0428\u0423\u041C\u041E\u0417\u0410\u0429\u0418\u0422\u041D\u041E\u041C
+    \u041A\u041E\u0420\u041F\u0423\u0421\u0415"
+  itemModel: "Remeza \u041A\u041C-24.GMS149"
+  itemSize: "515\u0445615\u0445800"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 0
+  itemCode: "\u0424-57"
+  itemPrefab: {fileID: 2068865104771409697, guid: efbede0a352ac864b9dfe87329facc1f, type: 3}
+  itemIcon: {fileID: 0}

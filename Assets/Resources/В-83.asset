@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u0412-83"
+  m_EditorClassIdentifier: 
+  itemType: Machines
+  itemName: "\u0410\u041F\u041F\u0410\u0420\u0410\u0422 \u041B\u0410\u0417\u0415\u0420\u041D\u042B\u0419
+    \u0425\u0418\u0420\u0423\u0420\u0413\u0418\u0427\u0415\u0421\u041A\u0418\u0419"
+  itemModel: "\u041B\u0410\u0425\u0422\u0410-\u041C\u0418\u041B\u041E\u041D Touch
+    screen, \u041C\u0418\u041B\u041E\u041D, \u0420\u043E\u0441\u0441\u0438\u044F"
+  itemSize: "200\u0445170\u0445280"
+  itemCount: 1
+  itemBalance: 0
+  itemPrice: 1765720
+  itemCode: "\u0412-83"
+  itemPrefab: {fileID: 1263983157320351998, guid: c4a6964298976dc479bacb198901de61, type: 3}
+  itemIcon: {fileID: 21300000, guid: 3ebcd4a57a0e571478207fd1645eae66, type: 3}

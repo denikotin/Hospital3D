@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: 228
+  m_EditorClassIdentifier: 
+  itemType: Chairs
+  itemName: "\u041A\u0420\u0415\u0421\u041B\u041E \u0420\u0410\u0411\u041E\u0427\u0415\u0415
+    \u041F\u041E\u0412\u041E\u0420\u041E\u0422\u041D\u041E\u0415 \u0414\u041B\u042F
+    \u0420\u0423\u041A\u041E\u0412\u041E\u0414\u0418\u0422\u0415\u041B\u042F \u041D\u0410
+    5 \u041A\u041E\u041B\u0415\u0421\u0410\u0425"
+  itemModel: "\u0421\u0438\u043D\u0434\u0438 D80"
+  itemSize: "600\u0445520\u0445960- 1020"
+  itemCount: 25
+  itemBalance: 0
+  itemPrice: 32290
+  itemCode: 228
+  itemPrefab: {fileID: 5331850420427541308, guid: 3bbb45fc99c4cb54b935f35d91fe0cfc, type: 3}
+  itemIcon: {fileID: 21300000, guid: 1f6a466e13a7ca2449e8d09917f5d903, type: 3}

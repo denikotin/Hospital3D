@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: "\u041A-47"
+  m_EditorClassIdentifier: 
+  itemType: Tables
+  itemName: "\u0421\u0422\u0415\u041B\u041B\u0410\u0416 \u0421\u0422\u0410\u0426\u0418\u041E\u041D\u0410\u0420\u041D\u042B\u0419
+    \u0418\u0417 \u041D\u0415\u0420\u0416\u0410\u0412\u0415\u042E\u0429\u0415\u0419
+    \u0421\u0422\u0410\u041B\u0418"
+  itemModel: "Iterma \u0421\u0422\u041F-31/1205"
+  itemSize: "1200\u0445500\u04451850"
+  itemCount: 38
+  itemBalance: 0
+  itemPrice: 44413
+  itemCode: "\u041A-47"
+  itemPrefab: {fileID: 5564683102558136374, guid: 0a47ab664ecf33544ac96dd32190ccf2, type: 3}
+  itemIcon: {fileID: 21300000, guid: 1cb1271fcd7f2144ab0ecb5ec9dbb9ed, type: 3}

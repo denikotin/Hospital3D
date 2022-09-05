@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce376f04d27ca746b9aa909822a5c15, type: 3}
+  m_Name: 137
+  m_EditorClassIdentifier: 
+  itemType: Beds
+  itemName: "\u041A\u0423\u0428\u0415\u0422\u041A\u0410 \u0421\u041C\u041E\u0422\u0420\u041E\u0412\u0410\u042F
+    \u0414\u0412\u0423\u0425\u0421\u0415\u041A\u0426\u0418\u041E\u041D\u041D\u0410\u042F"
+  itemModel: "\u041C\u0421\u041A-203, \u041C\u0415\u0413\u0418"
+  itemSize: "1850\u0445650\u0445800"
+  itemCount: 103
+  itemBalance: 0
+  itemPrice: 6510
+  itemCode: 137
+  itemPrefab: {fileID: 1813638330566050685, guid: e509ff0b3951bbe439e0b26a94697695, type: 3}
+  itemIcon: {fileID: 21300000, guid: 7a874ad841e66024a93956cd311c2149, type: 3}
